@@ -5,7 +5,7 @@ namespace ConsoleChas
     {
         static void Main(string[] args)
         {
-            dynamic number = 25;
+            int number = 25;
             Console.WriteLine(number);
         }
     }
